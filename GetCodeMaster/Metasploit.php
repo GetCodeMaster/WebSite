@@ -73,10 +73,10 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
 
                 <ul class="navbar-nav d-flex flex-row me-1">
                     <li class="nav-item me-3 me-lg-0">
-                        <a class="nav-link" href="#"><i class="fab fa-github"></i></a>
+                        <a class="nav-link" href="https://github.com/GetCodeMaster"><i class="fab fa-github"></i></a>
                     </li>
                     <li class="nav-item me-3 me-lg-0">
-                        <a class="nav-link" href="#"><i class="fab fa-twitter"></i></a>
+                        <a class="nav-link" href="https://twitter.com/GCodemaster"><i class="fab fa-twitter"></i></a>
                     </li>
                 </ul>
             </div>
