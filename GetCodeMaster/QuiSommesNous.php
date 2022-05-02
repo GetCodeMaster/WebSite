@@ -30,7 +30,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
       <!-- Container wrapper -->
       <div class="container-fluid">
         <!-- Navbar brand -->
-        <a class="navbar-brand" href="index.html"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
+        <a class="navbar-brand" href="index.php"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
         </a>
   
         <!-- Toggle button -->
@@ -44,19 +44,19 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <!-- Link -->
             <li class="nav-item">
-              <a class="nav-link" href="Cours.html">Cours</a>
+              <a class="nav-link" href="Cours.php">Cours</a>
             </li>
   
             <li class="nav-item">
-              <a class="nav-link" href="Tutoriels.html">Tutoriels</a>
+              <a class="nav-link" href="Tutoriels.php">Tutoriels</a>
             </li>
   
             <li class="nav-item">
-              <a class="nav-link" href="Inscription.html">Inscription</a>
+              <a class="nav-link" href="Inscription.php">Inscription</a>
             </li>
   
             <li class="nav-item">
-              <a class="nav-link" href="Contact.html">Contact</a>
+              <a class="nav-link" href="Contact.php">Contact</a>
             </li>
               
             <li class="nav-item">
@@ -165,16 +165,16 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
         ">
       <p class="col-md-4 mb-0 text-muted">&copy; 2021 GetCodeMaster, Inc</p>
   
-      <a class="navbar-brand" href="index.html"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
+      <a class="navbar-brand" href="index.php"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
       </a>
   
       <ul class="nav col-md-4 justify-content-end">
         
         <li class="nav-item">
-          <a href="FAQ.html" class="nav-link px-2 text-muted">FAQ</a>
+          <a href="FAQ.php" class="nav-link px-2 text-muted">FAQ</a>
         </li>
         <li class="nav-item">
-          <a href="QuiSommesNous.html" class="nav-link px-2 text-muted">Qui Sommes Nous ?</a>
+          <a href="QuiSommesNous.php" class="nav-link px-2 text-muted">Qui Sommes Nous ?</a>
         </li>
       </ul>
     </footer>
