@@ -45,19 +45,19 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <!-- Link -->
             <li class="nav-item">
-              <a class="nav-link" href="Cours.php">Cours</a>
+              <a class="nav-link" href="Cours.html">Cours</a>
             </li>
   
             <li class="nav-item">
-              <a class="nav-link" href="Tutoriels.php">Tutoriels</a>
+              <a class="nav-link" href="Tutoriels.html">Tutoriels</a>
             </li>
   
             <li class="nav-item">
-              <a class="nav-link" href="Inscription.php">Inscription</a>
+              <a class="nav-link" href="Inscription.html">Inscription</a>
             </li>
   
             <li class="nav-item">
-              <a class="nav-link" href="Contact.php">Contact</a>
+              <a class="nav-link" href="Contact.html">Contact</a>
             </li>
               
             <li class="nav-item">
@@ -67,12 +67,12 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
   
           <!-- Icons -->
   
-          <ul class="navbar-nav d-flex flex-row me-1">
+            <ul class="navbar-nav d-flex flex-row me-1">
             <li class="nav-item me-3 me-lg-0">
-              <a class="nav-link" href="#"><i class="fab fa-github"></i></a>
+              <a class="nav-link" href="https://github.com/GetCodeMaster"><i class="fab fa-github"></i></a>
             </li>
             <li class="nav-item me-3 me-lg-0">
-              <a class="nav-link" href="#"><i class="fab fa-twitter"></i></a>
+              <a class="nav-link" href="https://twitter.com/GCodemaster"><i class="fab fa-twitter"></i></a>
             </li>
           </ul>
         </div>
@@ -127,12 +127,6 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
       </a>
   
       <ul class="nav col-md-4 justify-content-end">
-        <li class="nav-item">
-          <a href="CGU.html" class="nav-link px-2 text-muted">CGU</a>
-        </li>
-        <li class="nav-item">
-          <a href="Privacy.html" class="nav-link px-2 text-muted">Privacy</a>
-        </li>
         <li class="nav-item">
           <a href="FAQ.html" class="nav-link px-2 text-muted">FAQ</a>
         </li>
