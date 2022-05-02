@@ -30,7 +30,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
       <!-- Container wrapper -->
       <div class="container-fluid">
         <!-- Navbar brand -->
-        <a class="navbar-brand" href="index.html"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
+        <a class="navbar-brand" href="index.php"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
         </a>
   
         <!-- Toggle button -->
@@ -89,15 +89,16 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
 
 <section id="inscription">
 
-  <form>
+
+  <form action="/isConnected.php" method="post">
     <div class="form-floating">
-      <input type="email" id="email" class="form-control" required/>
-      <label class="form-label" for="email">Email</label>
+      <input type="pseudo" id="pseudo" name="pseudo" class="form-control" required/>
+      <label class="form-label" for="email">Pseudo</label>
     </div>
   
   <br>
   <div class="form-floating">
-    <input type="password" id="password" class="form-control" required/>
+    <input type="password" id="password" name="motdepasse" class="form-control" required/>
     <label class="form-label" for="password">Mot de passe</label>
   </div>
 <br>
