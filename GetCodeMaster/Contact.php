@@ -31,7 +31,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
       <!-- Container wrapper -->
       <div class="container-fluid">
         <!-- Navbar brand -->
-        <a class="navbar-brand" href="index.html"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
+        <a class="navbar-brand" href="index.php"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
         </a>
   
         <!-- Toggle button -->
@@ -128,10 +128,10 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
   
       <ul class="nav col-md-4 justify-content-end">
         <li class="nav-item">
-          <a href="FAQ.html" class="nav-link px-2 text-muted">FAQ</a>
+          <a href="FAQ.php" class="nav-link px-2 text-muted">FAQ</a>
         </li>
         <li class="nav-item">
-          <a href="QuiSommesNous.html" class="nav-link px-2 text-muted">Qui Sommes Nous ?</a>
+          <a href="QuiSommesNous.php" class="nav-link px-2 text-muted">Qui Sommes Nous ?</a>
         </li>
       </ul>
     </footer>
