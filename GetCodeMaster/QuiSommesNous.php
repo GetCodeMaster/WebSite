@@ -80,7 +80,52 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
     </nav>
     <!-- Navbar -->
   
+    <section>
+
+    <p><h2><font color=blue> L'équipe </font></h2>
+    <b>Nous sommes trois anciens étudiants et maintenant codeurs confirmés qui travaillions ensemble afin de vous rendre la vie plus facile.</b>
+
+    <p><h2><font color=blue> Notre histoire</font></h2>
+    <b> Nous savons ce que cela fait de commencer des études dans le domaine numérique , que vous soyez en licence, en bts ou en classe préparatoire et de ne pas savoir s'habituer assez rapidement au rythme entrepris.</b></p>
+    <p><b> Avec ce site vous n'aurez aucun mal à prendre les choses en main petit à petit et à approfondir vos connaissances jusqu'à être au top niveau de votre classe, c'est promis.</b></p>
+
+    <p><h2><font color=blue> Objectif</font></h2>
+      <b> Nous avons comme mission, en plus de vous rendre monstrueusement intelligents, de recruter de nouveaux codeurs et de mettre en place un systeme de tutorat afin de pouvoir répondre et aider plus facilement les codeurs ayant le plus de difficultés.
+      Un serveur discord sera bientôt ouvert et vous pouvez déjà poster vos candidatures par mail.</b>
+
+      <p><h2><font color=blue> Nous contacter</font></h2><br>
+        <b>GetCodeMaster@protonmail.com<br>
+          getcode190@gmail.com
+          <a class="nav-link" href="https://twitter.com/GCodemaster"><i class="fab fa-twitter"></i></a>
+        </b></p>
+
+
+
+
+  
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </section>
 
 
 
@@ -124,12 +169,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
       </a>
   
       <ul class="nav col-md-4 justify-content-end">
-        <li class="nav-item">
-          <a href="CGU.html" class="nav-link px-2 text-muted">CGU</a>
-        </li>
-        <li class="nav-item">
-          <a href="Privacy.html" class="nav-link px-2 text-muted">Privacy</a>
-        </li>
+        
         <li class="nav-item">
           <a href="FAQ.html" class="nav-link px-2 text-muted">FAQ</a>
         </li>
