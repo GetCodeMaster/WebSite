@@ -165,12 +165,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
       </a>
   
       <ul class="nav col-md-4 justify-content-end">
-        <li class="nav-item">
-          <a href="CGU.html" class="nav-link px-2 text-muted">CGU</a>
-        </li>
-        <li class="nav-item">
-          <a href="Privacy.html" class="nav-link px-2 text-muted">Privacy</a>
-        </li>
+    
         <li class="nav-item">
           <a href="FAQ.html" class="nav-link px-2 text-muted">FAQ</a>
         </li>
