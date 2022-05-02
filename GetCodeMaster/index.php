@@ -67,14 +67,16 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
 
         <!-- Icons -->
 
-        <ul class="navbar-nav d-flex flex-row me-1">
-          <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="#"><i class="fab fa-github"></i></a>
-          </li>
-          <li class="nav-item me-3 me-lg-0">
-            <a class="nav-link" href="https://twitter.com/R_udyy"><i class="fab fa-twitter"></i></a>
-          </li>
-        </ul>
+         <ul class="navbar-nav d-flex flex-row me-1">
+            <li class="nav-item me-3 me-lg-0">
+              <a class="nav-link" href="https://github.com/GetCodeMaster"><i class="fab fa-github"></i></a>
+            </li>
+            <li class="nav-item me-3 me-lg-0">
+              <a class="nav-link" href="https://twitter.com/GCodemaster"><i class="fab fa-twitter"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
       </div>
     </div>
     <!-- Container wrapper -->
@@ -169,12 +171,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
     </a>
 
     <ul class="nav col-md-4 justify-content-end">
-      <li class="nav-item">
-        <a href="CGU.html" class="nav-link px-2 text-muted">CGU</a>
-      </li>
-      <li class="nav-item">
-        <a href="Privacy.html" class="nav-link px-2 text-muted">Privacy</a>
-      </li>
+       
       <li class="nav-item">
         <a href="FAQ.html" class="nav-link px-2 text-muted">FAQ</a>
       </li>
