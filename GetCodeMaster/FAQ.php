@@ -30,7 +30,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
       <!-- Container wrapper -->
       <div class="container-fluid">
         <!-- Navbar brand -->
-        <a class="navbar-brand" href="index.html"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
+        <a class="navbar-brand" href="index.php"><img src="Logo.png" height="40" alt="logo" loading="lazy" />
         </a>
   
         <!-- Toggle button -->
