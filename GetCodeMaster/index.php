@@ -45,19 +45,19 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <!-- Link -->
           <li class="nav-item">
-            <a class="nav-link" href="Cours.html">Cours</a>
+            <a class="nav-link" href="Cours.php">Cours</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="Tutoriels.html">Tutoriels</a>
+            <a class="nav-link" href="Tutoriels.php">Tutoriels</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="Inscription.html">Inscription</a>
+            <a class="nav-link" href="Inscription.php">Inscription</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="Contact.html">Contact</a>
+            <a class="nav-link" href="Contact.php">Contact</a>
           </li>
            
           <li class="nav-item">
@@ -173,10 +173,10 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
     <ul class="nav col-md-4 justify-content-end">
        
       <li class="nav-item">
-        <a href="FAQ.html" class="nav-link px-2 text-muted">FAQ</a>
+        <a href="FAQ.php" class="nav-link px-2 text-muted">FAQ</a>
       </li>
       <li class="nav-item">
-        <a href="QuiSommesNous.html" class="nav-link px-2 text-muted">Qui Sommes Nous ?</a>
+        <a href="QuiSommesNous.php" class="nav-link px-2 text-muted">Qui Sommes Nous ?</a>
       </li>
     </ul>
   </footer>
