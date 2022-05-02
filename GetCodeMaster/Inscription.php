@@ -88,17 +88,17 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
 
 <section id="inscription">
 
-  <form>
+  <form action="/inscription_done.php" method="post">
     <div class="row mb-4">
       <div class="col">
         <div class="form-floating">
-          <input type="text" id="Nom" class="form-control" required/>
+          <input type="text" id="Nom" name="nom" class="form-control" required/>
           <label class="form-label" for="Nom">Nom</label>
         </div>
       </div>
       <div class="col">
         <div class="form-floating">
-          <input type="text" id="Prénom" class="form-control" required/>
+          <input type="text" id="Prénom" name="prenom" class="form-control" required/>
           <label class="form-label" for="Prénom">Prénom</label>
         </div>
       </div>
@@ -107,7 +107,7 @@ $$ |  $$ |$$   ____|$$ |$$\$$ |  $$\$$ |  $$ |$$ |  $$ |$$   ____|$$ |\$  /$$ |$
   
     <!-- Email input -->
     <div class="form-floating">
-      <input type="email" id="email" class="form-control" required/>
+      <input type="email" id="email" name="email" class="form-control" required/>
       <label class="form-label" for="email">Email</label>
     </div>
   
